@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/yanrao/wknd-da/
+    url: https://content.da.live/paul-rao/wknd-da/
     type: markup
